@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/81398c3c8b79761f942d8164304d3466/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/62790a5a77749db529f375b22e2698cb/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/81398c3c8b79761f942d8164304d3466/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/shanbo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/81398c3c8b79761f942d8164304d3466/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

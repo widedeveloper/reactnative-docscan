@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_rotate_right.png",
+        "source": "/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/build/generated/res/pngs/release/drawable-ldpi/ic_rotate_right.png"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_check_circle.png",
+        "source": "/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/build/generated/res/pngs/release/drawable-ldpi/ic_check_circle.png"
+    },
+    {
+        "merged": "/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_rotate_left.png",
+        "source": "/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/build/generated/res/pngs/release/drawable-ldpi/ic_rotate_left.png"
+    }
+]

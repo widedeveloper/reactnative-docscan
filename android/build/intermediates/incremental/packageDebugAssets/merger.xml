@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/src/main/assets"/><source path="/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/shanbo/Documents/app/node_modules/rn-doc-scanner/android/src/debug/assets"/></dataSet></merger>

@@ -1,0 +1,42 @@
+{
+  "_from": "git+https://avwave@bitbucket.org/avwave/rn-doc-scanner-android.git",
+  "_id": "rn-doc-scanner@1.0.9",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/rn-doc-scanner",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://avwave@bitbucket.org/avwave/rn-doc-scanner-android.git",
+    "rawSpec": "git+https://avwave@bitbucket.org/avwave/rn-doc-scanner-android.git",
+    "saveSpec": "git+https://avwave@bitbucket.org/avwave/rn-doc-scanner-android.git",
+    "fetchSpec": "https://avwave@bitbucket.org/avwave/rn-doc-scanner-android.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://avwave@bitbucket.org/avwave/rn-doc-scanner-android.git#b3888d328c5e88c1b858f974c3619f6eca7d94f9",
+  "_spec": "git+https://avwave@bitbucket.org/avwave/rn-doc-scanner-android.git",
+  "_where": "/Users/shanbo/Documents/app",
+  "author": {
+    "name": "Ray Arvin Rimorin"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "optional",
+  "gitHead": "b3888d328c5e88c1b858f974c3619f6eca7d94f9",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "rn-doc-scanner",
+  "nativePackage": true,
+  "peerDependencies": {
+    "react": "16.3.1",
+    "react-native": "0.55.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.9"
+}
